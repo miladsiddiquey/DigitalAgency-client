@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Poppins:wght@100;200;300;400;500;600;700;800;900&family=Spartan:wght@300&family=Yanone+Kaffeesatz:wght@200;300;400;500;600;700&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Fredoka+One&family=Yanone+Kaffeesatz:wght@200;300;400;500;600;700&display=swap');
+
+
+h1,h2,h3,h4,h5,h6{
+    font-family: 'Fredoka One', cursive;
+}
+p{
+    font-family: 'Poppins', sans-serif;
+    color:gray;
+}
+
+section{
+    margin-top: 130px;
+}

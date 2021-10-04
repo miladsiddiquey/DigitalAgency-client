@@ -1,0 +1,15 @@
+.banner_bg{
+    background-image: linear-gradient(#CC004F, #C30049);
+    position: relative;
+    
+}
+
+.banner_img{
+    position: relative;
+    z-index: 1000;
+}
+.wavy{
+    position: absolute;
+    bottom:0;
+    left:0;
+}

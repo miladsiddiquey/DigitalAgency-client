@@ -1,0 +1,22 @@
+.footer{
+    background-color: #181433;
+    padding:90px 0px 40px 0px;
+    margin-top: 90px;
+}
+.footer_info{
+    color:#fff !important;
+}
+.footer_info p{
+    color: #fff;
+}
+.footer_bottom{
+    background-color: #A90037;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 30px 0px 10px 0px;
+   
+}
+.footer_bottom p{
+    color:#fff;
+}
